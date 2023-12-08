@@ -1,5 +1,6 @@
-´úÂëÊ¹ÓÃËµÃ÷£º
-£¨1£©´úÂëÓë¡¶VerilogHDLÊý×ÖÏµÍ³Éè¼ÆÓëÑéÖ¤-ÒÔÌ«Íø½»»»»ú°¸Àý·ÖÎö¡·°´ÕÕÕÂ½Ú¹ØÏµÒ»Ò»¶ÔÓ¦¡£
-£¨2£©´úÂëÖÐÖ÷ÒªÊ¹ÓÃÁËFIFO¡¢SRAMµÈ»ù±¾IPºË£¬»ùÓÚXilinxµÄ¿ª·¢»·¾³½øÐÐÉè¼ÆÑéÖ¤£¬Èç¹ûÊ¹ÓÃÆäËü¿ª·¢»·¾³£¬ÐèÒªÖØÐÂÉú³É²¢Ìæ»»IPºË¡£
-£¨3£©³öÓÚÆª·ùÔ­Òò£¬Ô­ÊéÖÐ²¿·Ö¼òµ¥µÄtestbenchÃ»ÓÐ¸ø³ö£¬´Ë´¦½øÐÐÁË²¹³ä¡£
-£¨4£©¿¼ÂÇµ½Ä³Ð©°æ±¾µÄ¿ª·¢»·¾³ÔÚÊ¹ÓÃÖÐÎÄ×¢ÊÍÊ±¿ÉÄÜ´æÔÚÎÊÌâ£¬Òò´Ë´úÂëÖÐÉ¾³ýÁËÖÐÎÄ×¢ÊÍ£¬¿ÉÒÔ²Î¿¼Ô­Êé½øÐÐ·ÖÎö¡£
+The source code from *VerilogHDL¿¿¿¿¿¿¿¿¿--¿¿¿¿¿¿¿¿¿¿*
+
+
+I gave up on optimizing it. The design is bad.
+
+Go to learn from corundum
